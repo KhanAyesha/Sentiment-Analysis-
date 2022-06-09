@@ -1,4 +1,4 @@
-**Review Sentimental Analysis **
+**Review Sentimental Analysis**
 
 The client is in business of online sales of jwellery items through website & also TV channels in USA, UK & Australia. They recieve multiple feedback for their product from all the channels like website, TV chaannels etc
 
